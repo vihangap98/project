@@ -2,7 +2,6 @@
   <action id="Console.Execute" />
   <action id="DirDiffMenu.SynchronizeDiff" />
   <action id="EditorChooseLookupItem" />
-  <action id="EditorEnter" />
   <action id="EditorStartNewLine">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
